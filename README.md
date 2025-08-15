@@ -5,7 +5,7 @@
 
   ## About Me
 
-💻 Profession: I am currently studying at ITpark.<br> 
+💻 Profession: I am currently studying at IT park.<br> 
 🎓 Fields I Teach: Python. HTML and CSS 
 
 ---

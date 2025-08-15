@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rayxona!;I'm+studying+%26+IT;" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rayxona!;I'm+studying+IT;" 
 </div>
 
 

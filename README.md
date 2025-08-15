@@ -47,7 +47,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>⭐ If you find this profile useful, don't forget to leave a star!</h3>
 </div>
 

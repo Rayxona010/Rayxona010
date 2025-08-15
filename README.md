@@ -18,7 +18,7 @@ Working with real-world datasets in data science and optimizing machine learning
 Python, Flutter app development, and UI/UX design.
 
 ---📫 How to reach me:
-Email: yourname@example.com | LinkedIn: [Your Profile Link]
+Email: durdiyevarayxona60@example.com | LinkedIn: [@durdiyevamm]
 
 ---😄 Pronouns:
 she/her

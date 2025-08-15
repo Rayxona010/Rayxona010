@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rayxona!;I'm+studying+IT;" 
 </div>
 

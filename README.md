@@ -1,28 +1,56 @@
-
-
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rayxona!;I'm+studying+IT;" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rayxona!" alt="Typing SVG" />
 </div>
 
+## 🧑‍💻 About Me
 
-About me:
+💻 **Profession:** I'm studying at IT park  
+🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
+🎓 **Fields I Teach:** Python. HTML and CSS 
 
----👨‍🎓 School student | Knowledgeable in Python and basic HTML/CSS
+---
 
----🔍 What I’ve learned: for/while loops, sets and dictionaries, conditional statements (if/else), HTML/CSS.
+## 🚀 Technologies & Skills
 
----🚀 My goal: to build a strong programming foundation and learn how to create simple web applications.
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----💬 Feel free to ask me about: Python basics, creating HTML pages, and logical algorithms.
+### ⚙️ Backend Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
----⭐ I’m looking for help with:
-Gaining experience with practical data projects and improving my skills in data analysis.
 
----💬 Ask me about:
-Python programming, web development basics, and designing simple user interfaces.
+### 💻 IDEs and Editors
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
----📫 How to reach me:
-Email: durdiyevarayxona60@example.com 
----💫Pronouns:
-she/her
+### 🛡️ Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### </> Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+---
+
+## 🌐 Contact Me
+
+<div align="center">
+  <a href="https://t.me/Durdiyevamm">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:abdullayevfarhodjon79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>⭐ If you find this profile useful, don't forget to leave a star!</h3>
+</div>

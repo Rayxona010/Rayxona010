@@ -36,7 +36,7 @@
 
 ## 🌐 Contact Me
 
-<div align="center">
+<div align="left">
   <a href="https://t.me/Durdiyevamm">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -47,7 +47,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>⭐ If you find this profile useful, don't forget to leave a star!</h3>
 </div>
 

@@ -16,7 +16,7 @@ About me:
 
 ---💬 Feel free to ask me about: Python basics, creating HTML pages, and logical algorithms.
 
-------🤔 I’m looking for help with:
+---⭐ I’m looking for help with:
 Gaining experience with practical data projects and improving my skills in data analysis.
 
 ---💬 Ask me about:
@@ -24,5 +24,5 @@ Python programming, web development basics, and designing simple user interfaces
 
 ---📫 How to reach me:
 Email: durdiyevarayxona60@example.com 
----😄 Pronouns:
+---💫Pronouns:
 she/her

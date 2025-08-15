@@ -23,7 +23,6 @@ Gaining experience with practical data projects and improving my skills in data 
 Python programming, web development basics, and designing simple user interfaces.
 
 ---📫 How to reach me:
-Email: durdiyevarayxona60@example.com | LinkedIn: [@durdiyevamm]
-
+Email: durdiyevarayxona60@example.com 
 ---😄 Pronouns:
 she/her

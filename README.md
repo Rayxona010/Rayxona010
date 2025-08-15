@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rayxona!" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
-💻 **Profession:** I'm studying at IT park  
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
-🎓 **Fields I Teach:** Python. HTML and CSS 
+💻 Profession:I am currently working at ITpark. 
+🎓 Fields I Teach: Python. HTML and CSS 
 
 ---
 
@@ -44,7 +43,7 @@
   <a href="https://t.me/Durdiyevamm">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:...@gmail.com">
+  <a href="mailto:durdiyevarayxona60@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>

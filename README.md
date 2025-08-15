@@ -10,7 +10,9 @@
 
 ---
 
-## 🚀 Technologies & Skills
+## My skills
+![Profile Views](https://komarev.com/ghpvc/?username=Rayxona010&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayxona010&show_icons=true&theme=radical)
 
 ### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

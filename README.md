@@ -2,20 +2,19 @@ I'm Rayxona✨
 
 About me:
 
---- 🔭 I’m currently working on:
-Building mobile applications and exploring how to integrate AI technologies into real-world solutions.
+---👨‍🎓 School student | Knowledgeable in Python and basic HTML/CSS
 
----🌱 I’m currently learning:
-Machine Learning, Python, and backend development using FastAPI and PostgreSQL.
+---🔍 What I’ve learned: for/while loops, sets and dictionaries, conditional statements (if/else), HTML/CSS.
 
----👯 I’m looking to collaborate on:
-Open-source projects, innovative tech ideas, and early-stage startups.
+---🚀 My goal: to build a strong programming foundation and learn how to create simple web applications.
 
----🤔 I’m looking for help with:
-Working with real-world datasets in data science and optimizing machine learning models.
+---💬 Feel free to ask me about: Python basics, creating HTML pages, and logical algorithms.
+
+------🤔 I’m looking for help with:
+Gaining experience with practical data projects and improving my skills in data analysis.
 
 ---💬 Ask me about:
-Python, Flutter app development, and UI/UX design.
+Python programming, web development basics, and designing simple user interfaces.
 
 ---📫 How to reach me:
 Email: durdiyevarayxona60@example.com | LinkedIn: [@durdiyevamm]
